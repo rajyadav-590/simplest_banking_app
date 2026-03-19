@@ -48,7 +48,7 @@ This project is ideal for beginners who want to strengthen their understanding o
 ### 🔹 Step 1: Clone Repository
 
 ```id="oqb8mb"
-git clone 
+git clone https://github.com/rajyadav-590/simplest_banking_app.git
 ```
 
 ### 🔹 Step 2: Navigate to Folder
